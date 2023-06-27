@@ -1,6 +1,14 @@
 # GUS Data Integration
 
-Welcome to My Awesome App! This application was created as part of a project for the course "Systems Integration."
+This application was created as part of a project for the course "Systems Integration".
+
+## Features
+
+- Register and log in to your account to access featuers
+- Request data for selected region and data type
+- Export and import data from .json or .xml files
+- Export and import data from database
+- Generate graph from currently loaded data
 
 ## Screenshots
 
@@ -20,14 +28,6 @@ Screenshots of working application:
 
 ### Data In Exported Json File
 ![Data In Exported Json File](/images/json.png)
-
-## Features
-
-- Register and log in to your account to access featuers
-- Request data for selected region and data type
-- Export and import data from .json or .xml files
-- Export and import data from database
-- Generate graph from currently loaded data
 
 ## Docker containers
 
